@@ -25,7 +25,7 @@ export const StyledHeader = styled.header`
   white-space: nowrap;
 `;
 
-const StyledApp = styled.main`
+export const StyledApp = styled.main`
   --color-app-background: #fff;
   --color-border: #c9c9c9;
   --color-primary: rgba(87, 176, 234, 1);
